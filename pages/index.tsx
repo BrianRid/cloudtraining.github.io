@@ -13,10 +13,8 @@ import type { NextPage } from "next";
 import Card from "../components/Card";
 import SearchBar from "../components/Searchbar";
 import {
-  EducationalResource,
   EducationalResourceDirectory,
   educationalResources,
-  EducationalResourceTag,
 } from "../utils/data";
 
 const Home: NextPage = () => {
