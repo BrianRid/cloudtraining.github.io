@@ -58,17 +58,19 @@ export type EducationalResource = {
   tags: EducationalResourceTag[];
   category: EducationalResourceCategory;
   keywords?: string[];
-  imageUrl?: string;
+  imageUrl: { src: string; alt: string };
   timeRequired?: number;
   articleUrl?: string;
   deploymentUrl?: string | object;
+  parts: string[];
 };
 
 export type EducationalResourceDirectory = {
   name: LocalizedString;
   abstract: LocalizedString;
-  imageUrl?: string;
+  imageUrl: { src: string; alt: string };
   parts: EducationalResource[];
+  setListToDisplay: (listToDisplay: EducationalResource[]) => void;
 };
 
 export const educationalResources: (
