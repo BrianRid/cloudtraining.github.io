@@ -1,4 +1,12 @@
-import { Avatar, Box, Heading, Text, WrapItem, Flex } from "@chakra-ui/react";
+import {
+  Avatar,
+  Box,
+  Heading,
+  Text,
+  WrapItem,
+  Flex,
+  Button,
+} from "@chakra-ui/react";
 import {
   EducationalResource,
   EducationalResourceDirectory,
@@ -15,7 +23,7 @@ const Card = (props: EducationalResourceDirectory) => {
       borderRadius="xl"
     >
       <Box>
-        <Flex alignItems={"center"} justifyContent>
+        <Flex alignItems={"center"}>
           <Avatar src={props.imageUrl.src} size="sm" />
           <Heading as="h4" fontSize="lg" color="white" pl="4">
             {props.name}
@@ -24,6 +32,9 @@ const Card = (props: EducationalResourceDirectory) => {
         <Text color="white" fontSize="sm">
           {props.abstract}
         </Text>
+        <Button variant="outline" color="white" borderRadius="3xl">
+          Ouvrir
+        </Button>
       </Box>
     </WrapItem>
   );
