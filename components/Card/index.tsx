@@ -8,13 +8,11 @@ import {
   Divider,
   Link,
 } from "@chakra-ui/react";
-import { EducationalResourceDirectory } from "../../utils/data";
+import { CardProps } from "./interface";
 
-const Card = (props: EducationalResourceDirectory) => {
-  console.log(props);
-
+const Card = (props: CardProps) => {
   const displayButton = () => {
-    if (props.parts) {
+    if (props.onClick) {
       return (
         <Button
           variant="outline"
@@ -24,19 +22,14 @@ const Card = (props: EducationalResourceDirectory) => {
           position="absolute"
           bottom="5"
           right="5"
-          onClick={() => {
-            props.setListToDisplay(props.parts);
-          }}
+          onClick={props.onClick}
         >
           Ouvrir
         </Button>
       );
     } else {
       return (
-        <Link
-          href={props.articleUrl ? props.articleUrl : props.deploymentUrl}
-          target="_blank"
-        >
+        <Link href={props.url} target="_blank">
           <Button
             variant="outline"
             color="white"
@@ -66,7 +59,7 @@ const Card = (props: EducationalResourceDirectory) => {
       position="relative"
     >
       <Flex alignItems={"center"}>
-        <Avatar src={props.imageUrl.src} size="sm" />
+        <Avatar src={props.imageUrl} size="sm" />
         <Heading as="h4" fontSize="lg" color="white" pl="4">
           {props.name}
         </Heading>

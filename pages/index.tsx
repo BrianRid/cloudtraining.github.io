@@ -2,11 +2,13 @@ import {
   Box,
   Breadcrumb,
   BreadcrumbItem,
+  Button,
   Container,
   Flex,
   Heading,
   Text,
   Wrap,
+  Link,
 } from "@chakra-ui/react";
 import _ from "lodash";
 import type { NextPage } from "next";
@@ -27,34 +29,45 @@ const Home: NextPage = () => {
 
   const displayCards = listToDisplay.map(
     (ressource: EducationalResourceDirectory | EducationalResource) => {
-      return (
-        <Card
-          key={ressource.name}
-          name={ressource.name}
-          abstract={ressource.abstract}
-          imageUrl={ressource.imageUrl}
-          parts={ressource.parts}
-          articleUrl={ressource.articleUrl}
-          deploymentUrl={ressource.deploymentUrl}
-          setListToDisplay={setListToDisplay}
-        />
-      );
+      if ("parts" in ressource) {
+        return (
+          <Card
+            key={ressource.name}
+            name={ressource.name}
+            abstract={ressource.abstract}
+            imageUrl={ressource.imageUrl.src}
+            onClick={() => setListToDisplay(ressource.parts)}
+          />
+        );
+      } else {
+        return (
+          <Card
+            key={ressource.name}
+            name={ressource.name}
+            abstract={ressource.abstract}
+            imageUrl={ressource.imageUrl.src}
+            url={
+              ressource.articleUrl
+                ? ressource.articleUrl
+                : ressource.deploymentUrl
+            }
+          />
+        );
+      }
     }
   );
 
   return (
-    <Box w="full" h="full" bgColor="gray.900" px="12" py="12">
+    <Box w="full" minHeight="100vh" h="full" bgColor="gray.900" px="12" py="12">
       <Heading color="white" py="12">
         Formations et tutoriels
       </Heading>
       <SearchBar />
-      <Breadcrumb mb="6">
-        <BreadcrumbItem>
-          <Text fontSize="sm" color="white">
-            Formations
-          </Text>
-        </BreadcrumbItem>
-      </Breadcrumb>
+      <Link href="/">
+        <Button mb="6">
+          <Text>Accueil</Text>
+        </Button>
+      </Link>
       <Wrap spacing="20px" w="full" justify="space-between">
         {displayCards}
       </Wrap>
