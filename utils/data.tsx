@@ -112,7 +112,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: gameControllerImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/icarius?autoLaunch=true",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/icarius?autoLaunch=true",
       },
       {
         name: "Grimoire IgoR - Chapitre 1",
@@ -134,7 +134,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire01ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre1»&onyxia.friendlyName=«Grimoire-Chap1»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre1»&onyxia.friendlyName=«Grimoire-Chap1»",
       },
       {
         name: "Grimoire IgoR - Chapitre 2",
@@ -156,7 +156,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire02ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre2»&onyxia.friendlyName=«Grimoire-Chap2»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre2»&onyxia.friendlyName=«Grimoire-Chap2»",
       },
       {
         name: "Grimoire IgoR - Chapitre 3",
@@ -178,7 +178,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire03ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre3»&onyxia.friendlyName=«Grimoire-Chap3»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre3»&onyxia.friendlyName=«Grimoire-Chap3»",
       },
       {
         name: "Grimoire IgoR - Chapitre 4",
@@ -200,7 +200,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire04ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre4»&onyxia.friendlyName=«Grimoire-Chap4»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre4»&onyxia.friendlyName=«Grimoire-Chap4»",
       },
       {
         name: "Grimoire IgoR - Chapitre 5",
@@ -222,7 +222,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire05ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre5»&onyxia.friendlyName=«Grimoire-Chap5»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre5»&onyxia.friendlyName=«Grimoire-Chap5»",
       },
       {
         name: "Grimoire IgoR - Chapitre 6",
@@ -244,7 +244,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire06ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre6»&onyxia.friendlyName=«Grimoire-Chap6»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre6»&onyxia.friendlyName=«Grimoire-Chap6»",
       },
       {
         name: "Grimoire IgoR - Chapitre 7",
@@ -266,7 +266,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire07ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre7»&onyxia.friendlyName=«Grimoire-Chap7»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre7»&onyxia.friendlyName=«Grimoire-Chap7»",
       },
       {
         name: "Grimoire IgoR - Chapitre 8",
@@ -288,7 +288,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire08ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre8»&onyxia.friendlyName=«Grimoire-Chap8»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre8»&onyxia.friendlyName=«Grimoire-Chap8»",
       },
       {
         name: "Grimoire IgoR - Chapitre 9",
@@ -310,7 +310,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire09ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre9»&onyxia.friendlyName=«Grimoire-Chap9»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre9»&onyxia.friendlyName=«Grimoire-Chap9»",
       },
       {
         name: "Grimoire IgoR - Chapitre 10",
@@ -333,7 +333,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire10ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre10»&onyxia.friendlyName=«Grimoire-Chap10»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre10»&onyxia.friendlyName=«Grimoire-Chap10»",
       },
       {
         name: "Grimoire IgoR - Chapitre 11",
@@ -355,7 +355,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire11ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre11»&onyxia.friendlyName=«Grimoire-Chap11»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre11»&onyxia.friendlyName=«Grimoire-Chap11»",
       },
       {
         name: "Grimoire IgoR - Chapitre 12",
@@ -377,7 +377,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire12ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre12»&onyxia.friendlyName=«Grimoire-Chap12»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=«chapitre12»&onyxia.friendlyName=«Grimoire-Chap12»",
       },
       {
         name: "Grimoire IgoR - Chapitre 13",
@@ -399,7 +399,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grimoire13ImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=chapitre13&onyxia.friendlyName=Grimoire-Chap13",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=chapitre13&onyxia.friendlyName=Grimoire-Chap13",
       },
       {
         name: "Grimoire - Neverending",
@@ -421,7 +421,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: neverendingImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-trainings/neverending?onyxia.friendlyName=neveRending",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-trainings/neverending?onyxia.friendlyName=neveRending",
       },
     ],
   },
@@ -445,7 +445,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: grenouilleImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M1%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_socle_introduction-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M1%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_socle_introduction-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
         articleUrl: "https://mtes-mct.github.io/parcours_r_socle_introduction/",
       },
       {
@@ -458,7 +458,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: coverImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M2%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_socle_preparation_des_donnees-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M2%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_socle_preparation_des_donnees-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
         articleUrl:
           "https://mtes-mct.github.io/parcours_r_socle_preparation_des_donnees/",
       },
@@ -472,7 +472,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: pollinisateurImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M3%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_statistiques_descriptives-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M3%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_statistiques_descriptives-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
         articleUrl:
           "https://mtes-mct.github.io/parcours_r_module_statistiques_descriptives/",
       },
@@ -486,7 +486,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: crabeImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M4%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_analyse_multi_dimensionnelles-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M4%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_analyse_multi_dimensionnelles-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
         articleUrl:
           "https://mtes-mct.github.io/parcours_r_module_analyse_multi_dimensionnelles/",
       },
@@ -500,7 +500,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: renardImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M5%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_datavisualisation-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M5%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_datavisualisation-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
         articleUrl:
           "https://mtes-mct.github.io/parcours_r_module_datavisualisation/",
       },
@@ -514,7 +514,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: odonateImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M7%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_analyse_spatiale-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M7%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_analyse_spatiale-4.0.4%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_script_formation.sh%C2%BB",
         articleUrl:
           "https://mtes-mct.github.io/parcours_r_module_analyse_spatiale/",
       },
@@ -564,7 +564,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20types-variables%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20types-variables%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Structures de données 1 : listes et tuples",
@@ -577,7 +577,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures1%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures1%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Structures de données 2 : dictionnaires et sets",
@@ -590,7 +590,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures2%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures2%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Tests",
@@ -603,7 +603,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20tests%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20tests%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Boucles",
@@ -616,7 +616,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20loops%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20loops%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Fonctions",
@@ -629,7 +629,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20functions%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20functions%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Notions de programmation orientée objet",
@@ -642,7 +642,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20oop%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20oop%C2%BB&security.allowlist.enabled=false",
           },
         ],
       },
@@ -667,7 +667,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20modules-files%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20modules-files%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Travailler avec des fichiers CSV et JSON",
@@ -680,7 +680,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20csv-json-files%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20csv-json-files%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Calcul numérique avec NumPy",
@@ -693,7 +693,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20numpy%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20numpy%C2%BB&security.allowlist.enabled=false",
           },
         ],
       },
@@ -752,7 +752,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2001_numpy.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2001_numpy.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Introduction à pandas",
@@ -764,7 +764,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002a_pandas_tutorial.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002a_pandas_tutorial.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Pratique de pandas: un exemple complet",
@@ -776,7 +776,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002b_pandas_TP.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002b_pandas_TP.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Données spatiales: découverte de geopandas",
@@ -788,7 +788,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2003_geopandas_tutorial.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2003_geopandas_tutorial.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Webscraping avec python",
@@ -800,7 +800,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004a_webscraping_TP.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004a_webscraping_TP.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Requêter via des API avec Python",
@@ -812,7 +812,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004c_API_TP.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004c_API_TP.ipynb%C2%BB&security.allowlist.enabled=false",
           },
         ],
       },
@@ -835,7 +835,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20matplotlib.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20matplotlib.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "De belles cartes avec python: mise en pratique",
@@ -847,7 +847,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20maps.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20maps.ipynb%C2%BB&security.allowlist.enabled=false",
           },
         ],
       },
@@ -871,7 +871,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%200_preprocessing.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%200_preprocessing.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Evaluer la qualité d'un modèle",
@@ -883,7 +883,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%201_modelevaluation.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%201_modelevaluation.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Classification: premier modèle avec les SVM",
@@ -895,7 +895,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%202_SVM.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%202_SVM.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Régression: une introduction",
@@ -907,7 +907,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%203_regression.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%203_regression.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Sélection de variables : une introduction",
@@ -919,7 +919,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%204_featureselection.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%204_featureselection.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Clustering",
@@ -931,7 +931,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%205_clustering.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%205_clustering.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Premier pas vers l'industrialisation avec les pipelines scikit",
@@ -943,7 +943,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%206_pipeline.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%206_pipeline.ipynb%C2%BB&security.allowlist.enabled=false",
           },
         ],
       },
@@ -966,7 +966,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2001_intro.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2001_intro.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Nettoyer un texte: approche bag-of-words (exercices)",
@@ -978,7 +978,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2002_exoclean.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2002_exoclean.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Latent Dirichlet Allocation (LDA)",
@@ -990,7 +990,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2003_lda.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2003_lda.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Méthodes de vectorisation : comptages et word embeddings",
@@ -1002,7 +1002,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2004_word2vec.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2004_word2vec.ipynb%C2%BB&security.allowlist.enabled=false",
           },
           {
             name: "Exercices supplémentaires",
@@ -1014,7 +1014,7 @@ export const educationalResources: (
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2005_exo_supp.ipynb%C2%BB&security.allowlist.enabled=false",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2005_exo_supp.ipynb%C2%BB&security.allowlist.enabled=false",
           },
         ],
       },
@@ -1035,7 +1035,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh&vault.secret=«diffusion/spark-lab/1-introduction»&vault.directory=«tm8enk»&onyxia.friendlyName=«1_Intro_spark»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh&vault.secret=«diffusion/spark-lab/1-introduction»&vault.directory=«tm8enk»&onyxia.friendlyName=«1_Intro_spark»",
       },
       {
         name: "2. Datalake S3",
@@ -1047,7 +1047,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: minioImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/2-datalake»&vault.directory=«tm8enk&onyxia.friendlyName=«2_Datalake»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/2-datalake»&vault.directory=«tm8enk&onyxia.friendlyName=«2_Datalake»",
       },
       {
         name: "2.2 Données chiffrées sur S3",
@@ -1059,7 +1059,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: vaultSvgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/2b-vault-s3-sseC»&vault.directory=«tm8enk»&onyxia.friendlyName=«2b_vault-s3-sseC»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/2b-vault-s3-sseC»&vault.directory=«tm8enk»&onyxia.friendlyName=«2b_vault-s3-sseC»",
       },
       {
         name: "3. Spark et Kubernetes",
@@ -1071,7 +1071,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: kubImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/3-spark-kubernetes»&vault.directory=«tm8enk»&onyxia.friendlyName=«3_Spark_Kubernetes»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/3-spark-kubernetes»&vault.directory=«tm8enk»&onyxia.friendlyName=«3_Spark_Kubernetes»",
       },
       {
         name: "3.2 Allocation Dynamique Kubernetes",
@@ -1083,7 +1083,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: kubImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/3b-dynamic-allocation»&vault.directory=«tm8enk»&onyxia.friendlyName=«3_Dynamic_allocation»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/3b-dynamic-allocation»&vault.directory=«tm8enk»&onyxia.friendlyName=«3_Dynamic_allocation»",
       },
       {
         name: "4. Le format de données parquet",
@@ -1094,7 +1094,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/4-format-parquet»&vault.directory=«tm8enk»&onyxia.friendlyName=«4_format_parquet»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/4-format-parquet»&vault.directory=«tm8enk»&onyxia.friendlyName=«4_format_parquet»",
       },
       {
         name: "5. Hive-metastore et metadonnées",
@@ -1105,7 +1105,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: hiveSvgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/5-hive-metastore»&vault.directory=«tm8enk»&onyxia.friendlyName=«5_hive_metastore»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/5-hive-metastore»&vault.directory=«tm8enk»&onyxia.friendlyName=«5_hive_metastore»",
       },
       {
         name: "6. Spark-thrift et redash",
@@ -1117,7 +1117,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: redashSvgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/6-spark-thrift-server»&vault.directory=«tm8enk»&onyxia.friendlyName=«6_spark_thrift_server»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/6-spark-thrift-server»&vault.directory=«tm8enk»&onyxia.friendlyName=«6_spark_thrift_server»",
       },
       {
         name: "7. Spark streaming",
@@ -1129,7 +1129,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/7-spark-streaming»&vault.directory=«tm8enk»&onyxia.friendlyName=«7_spark_streaming»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/7-spark-streaming»&vault.directory=«tm8enk»&onyxia.friendlyName=«7_spark_streaming»",
       },
       {
         name: "8. Spark Graphx",
@@ -1140,7 +1140,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/8-spark-graphx»&vault.directory=«tm8enk»&onyxia.friendlyName=«8_spark_graphx»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/8-spark-graphx»&vault.directory=«tm8enk»&onyxia.friendlyName=«8_spark_graphx»",
       },
       {
         name: "9. Spark GPU",
@@ -1151,7 +1151,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rapidsai?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/9-spark-gpu»&vault.directory=«tm8enk»&onyxia.friendlyName=«9_spark_gpu»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rapidsai?autoLaunch=true&spark.sparkui=true&kubernetes.role=«edit»&init.personalInit=«https://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh»&vault.secret=«diffusion/spark-lab/9-spark-gpu»&vault.directory=«tm8enk»&onyxia.friendlyName=«9_spark_gpu»",
       },
       {
         name: "10. SparkR",
@@ -1188,7 +1188,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: bookImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&init.personalInit=«https://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installR.sh»&onyxia.friendlyName=«Text_Mining_R»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&init.personalInit=«https://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installR.sh»&onyxia.friendlyName=«Text_Mining_R»",
       },
       {
         name: "Analyse d'article avec Python",
@@ -1203,7 +1203,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: pythonImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&init.personalInit=«https://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installPy.sh»&onyxia.friendlyName=«Text_Mining_Python»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&init.personalInit=«https://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installPy.sh»&onyxia.friendlyName=«Text_Mining_Python»",
       },
       {
         name: "Appariemment flou avec Elastic Search",
@@ -1218,7 +1218,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: elkImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABFuzzyMatchElasticInitiation%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Fhby7ih%2Fhandsonelastic%2F-%2Fraw%2Fmaster%2Finit.sh%C2%BB&resources.requests.memory=%C2%AB10512Mi%C2%BB&security.allowlist.enabled=false&persistence.enabled=false&discovery.hive=false",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABFuzzyMatchElasticInitiation%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Fhby7ih%2Fhandsonelastic%2F-%2Fraw%2Fmaster%2Finit.sh%C2%BB&resources.requests.memory=%C2%AB10512Mi%C2%BB&security.allowlist.enabled=false&persistence.enabled=false&discovery.hive=false",
       },
     ],
   },
@@ -1251,7 +1251,7 @@ export const educationalResources: (
         articleUrl:
           "https://inseefrlab.github.io/formation-r-lissage-spatial/tuto.html",
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABinseefrlab%2Fformation-r-lissage-spatial%3Alatest%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABinseefrlab%2Fformation-r-lissage-spatial%3Alatest%C2%BB",
       },
       {
         name: "Exercices",
@@ -1265,7 +1265,7 @@ export const educationalResources: (
         articleUrl:
           "https://inseefrlab.github.io/formation-r-lissage-spatial/exo.html",
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABinseefrlab%2Fformation-r-lissage-spatial%3Alatest%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABinseefrlab%2Fformation-r-lissage-spatial%3Alatest%C2%BB",
       },
     ],
   },
@@ -1283,7 +1283,7 @@ export const educationalResources: (
         category: "trainings of data science",
         imageUrl: jupyterImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&init.personalInit=https://git.lab.sspcloud.fr/alexisdondon/formation/-/raw/master/Titanic-randomForest.sh&onyxia.friendlyName=«Random_forest»",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&init.personalInit=https://git.lab.sspcloud.fr/alexisdondon/formation/-/raw/master/Titanic-randomForest.sh&onyxia.friendlyName=«Random_forest»",
       },
     ],
   },
@@ -1303,7 +1303,7 @@ export const educationalResources: (
         category: "training courses with R",
         imageUrl: utilitrImgUrl,
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
         articleUrl: "https://www.book.utilitr.org/presentation-utilitr.html",
       },
       {
@@ -1322,7 +1322,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/ausv3",
           },
           {
@@ -1335,7 +1335,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/sspcloud.html",
           },
           {
@@ -1348,7 +1348,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/git-config.html",
           },
           {
@@ -1361,7 +1361,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/personnaliser.html",
           },
           {
@@ -1374,7 +1374,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/personnaliser.html",
           },
         ],
@@ -1395,7 +1395,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/rproject.html",
           },
           {
@@ -1408,7 +1408,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/git.html",
           },
           {
@@ -1421,7 +1421,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/utiliser-packages.html",
           },
           {
@@ -1434,7 +1434,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/choisir-package.html",
           },
           {
@@ -1447,7 +1447,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/gerer-dependances.html",
           },
           {
@@ -1460,7 +1460,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/se-documenter-sur-r.html",
           },
           {
@@ -1473,7 +1473,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl:
               "https://www.book.utilitr.org/r%C3%A9soudre-un-probl%C3%A8me-avec-r.html",
           },
@@ -1494,7 +1494,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/importcsv.html",
           },
           {
@@ -1507,7 +1507,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/importsas.html",
           },
           {
@@ -1520,7 +1520,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/importxl.html",
           },
           {
@@ -1532,7 +1532,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/api.html",
           },
           {
@@ -1545,7 +1545,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/bdd.html",
           },
         ],
@@ -1566,7 +1566,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/tidyverse.html",
           },
           {
@@ -1579,7 +1579,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/datatable.html",
           },
           {
@@ -1592,7 +1592,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/jointures.html",
           },
           {
@@ -1605,7 +1605,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/textdata.html",
           },
           {
@@ -1618,7 +1618,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/surveydata.html",
           },
           {
@@ -1631,7 +1631,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/spatdata.html",
           },
           {
@@ -1644,7 +1644,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/acp.html",
           },
         ],
@@ -1665,7 +1665,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/ggplot2.html",
           },
           {
@@ -1678,7 +1678,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/rmarkdown.html",
           },
           {
@@ -1691,7 +1691,7 @@ export const educationalResources: (
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
-              "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
+              "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB",
             articleUrl: "https://www.book.utilitr.org/rapports-auto.html",
           },
         ],
@@ -1757,7 +1757,7 @@ export const educationalResources: (
         articleUrl:
           "https://collaboratif-git-formation-insee.netlify.configurer-un-projet-git-avec-rstudio.html",
         deploymentUrl:
-          "https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/rstudio?autoLaunch=true",
       },
       {
         name: "Des bases de Git",
