@@ -49,7 +49,7 @@ const Card = (props: CardProps) => {
                 Lire
               </Button>
             </Link>
-            <Link href={props.articleUrl} target="_blank">
+            <Link href={props.deploymentUrl} target="_blank">
               <Button
                 variant="outline"
                 color="white"
