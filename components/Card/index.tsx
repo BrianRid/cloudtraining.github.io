@@ -7,6 +7,7 @@ import {
   Button,
   Divider,
   Link,
+  Box,
 } from "@chakra-ui/react";
 import { CardProps } from "./interface";
 
@@ -28,21 +29,55 @@ const Card = (props: CardProps) => {
         </Button>
       );
     } else {
-      return (
-        <Link href={props.url} target="_blank">
-          <Button
-            variant="outline"
-            color="white"
-            _hover={{ color: "black", bgColor: "white" }}
-            borderRadius="3xl"
+      if (props.articleUrl && props.deploymentUrl) {
+        return (
+          <Box
             position="absolute"
             bottom="5"
             right="5"
+            display="flex"
+            justifyContent="space-between"
           >
-            Ouvrir
-          </Button>
-        </Link>
-      );
+            <Link href={props.articleUrl} target="_blank">
+              <Button
+                variant="outline"
+                color="white"
+                _hover={{ color: "black", bgColor: "white" }}
+                borderRadius="3xl"
+                marginRight="3"
+              >
+                Lire
+              </Button>
+            </Link>
+            <Link href={props.articleUrl} target="_blank">
+              <Button
+                variant="outline"
+                color="white"
+                _hover={{ color: "black", bgColor: "white" }}
+                borderRadius="3xl"
+              >
+                Lancer
+              </Button>
+            </Link>
+          </Box>
+        );
+      } else {
+        return (
+          <Link href={props.deploymentUrl} target="_blank">
+            <Button
+              variant="outline"
+              color="white"
+              _hover={{ color: "black", bgColor: "white" }}
+              borderRadius="3xl"
+              position="absolute"
+              bottom="5"
+              right="5"
+            >
+              Lancer
+            </Button>
+          </Link>
+        );
+      }
     }
   };
   return (

@@ -4,6 +4,7 @@ export interface CardProps {
   name: string;
   abstract: string;
   imageUrl: string;
-  url?: string;
+  articleUrl?: string;
+  deploymentUrl?: string;
   onClick?: () => void;
 }

@@ -46,11 +46,8 @@ const Home: NextPage = () => {
             name={ressource.name}
             abstract={ressource.abstract}
             imageUrl={ressource.imageUrl.src}
-            url={
-              ressource.articleUrl
-                ? ressource.articleUrl
-                : ressource.deploymentUrl
-            }
+            articleUrl={ressource.articleUrl}
+            deploymentUrl={ressource.deploymentUrl}
           />
         );
       }
