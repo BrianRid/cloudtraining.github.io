@@ -8,7 +8,9 @@ import {
   Divider,
   Link,
   Box,
+  Badge,
 } from "@chakra-ui/react";
+import _ from "lodash";
 import { CardProps } from "./interface";
 
 const Card = (props: CardProps) => {
@@ -80,6 +82,38 @@ const Card = (props: CardProps) => {
       }
     }
   };
+
+  const displayTags = () => {
+    if (props.tags) {
+      return (
+        <Box>
+          {props.tags.map((tag: string) => {
+            let color = "";
+            if (tag === "Apprendre") {
+              color = "green";
+            } else if (tag === "Apprendre") {
+              color = "red";
+            } else {
+              color = "blue";
+            }
+            return (
+              <Badge
+                key={tag}
+                colorScheme={color}
+                mr={2}
+                my={2}
+                borderRadius="3xl"
+                p="1"
+              >
+                {tag}
+              </Badge>
+            );
+          })}
+        </Box>
+      );
+    }
+  };
+
   return (
     <WrapItem
       w="30%"
@@ -103,6 +137,7 @@ const Card = (props: CardProps) => {
       <Text color="white" fontSize="sm">
         {props.abstract}
       </Text>
+      {displayTags()}
       {displayButton()}
     </WrapItem>
   );

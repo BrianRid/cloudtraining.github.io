@@ -36,6 +36,7 @@ const Home: NextPage = () => {
             name={ressource.name}
             abstract={ressource.abstract}
             imageUrl={ressource.imageUrl.src}
+            tags={[]}
             onClick={() => setListToDisplay(ressource.parts)}
           />
         );
@@ -47,6 +48,7 @@ const Home: NextPage = () => {
             abstract={ressource.abstract}
             imageUrl={ressource.imageUrl.src}
             articleUrl={ressource.articleUrl}
+            tags={ressource.tags}
             deploymentUrl={ressource.deploymentUrl}
           />
         );

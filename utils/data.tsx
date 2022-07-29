@@ -43,9 +43,9 @@ export type EducationalResourceCategory =
   | "best practices";
 
 export type EducationalResourceTag =
-  | "discover"
-  | "learn"
-  | "consolidate"
+  | "Découvrir"
+  | "Apprendre"
+  | "Consolider"
   | "deepen";
 
 export type EducationalResource = {
@@ -108,7 +108,7 @@ export const educationalResources: (
             en: "Video Game",
           },
         ],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with R",
         imageUrl: gameControllerImgUrl,
         deploymentUrl:
@@ -130,7 +130,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["discover"],
+        tags: ["Découvrir"],
         category: "training courses with R",
         imageUrl: grimoire01ImgUrl,
         deploymentUrl:
@@ -152,7 +152,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire02ImgUrl,
         deploymentUrl:
@@ -174,7 +174,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire03ImgUrl,
         deploymentUrl:
@@ -196,7 +196,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire04ImgUrl,
         deploymentUrl:
@@ -218,7 +218,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire05ImgUrl,
         deploymentUrl:
@@ -240,7 +240,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire06ImgUrl,
         deploymentUrl:
@@ -262,7 +262,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire07ImgUrl,
         deploymentUrl:
@@ -284,7 +284,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire08ImgUrl,
         deploymentUrl:
@@ -306,7 +306,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire09ImgUrl,
         deploymentUrl:
@@ -329,7 +329,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire10ImgUrl,
         deploymentUrl:
@@ -351,7 +351,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire11ImgUrl,
         deploymentUrl:
@@ -373,7 +373,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire12ImgUrl,
         deploymentUrl:
@@ -395,7 +395,7 @@ export const educationalResources: (
             en: "R Tutorial",
           },
         ],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: grimoire13ImgUrl,
         deploymentUrl:
@@ -417,7 +417,7 @@ export const educationalResources: (
             en: "Rstudio Tutorial",
           },
         ],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with R",
         imageUrl: neverendingImgUrl,
         deploymentUrl:
@@ -441,7 +441,7 @@ export const educationalResources: (
           "Pascal Irz",
         ],
         types: ["Tutoriel R"],
-        tags: ["discover"],
+        tags: ["Découvrir"],
         category: "training courses with R",
         imageUrl: grenouilleImgUrl,
         deploymentUrl:
@@ -454,7 +454,7 @@ export const educationalResources: (
           "Être en capacité d’explorer les données, de les comprendre, de les structurer, de les croiser et les enrichir avec des données externes pour les préparer à des traitements statistiques. La préparation des données est une étape fondamentale pour faciliter la réalisation des analyses statistiques",
         authors: ["Maël Theulière", "Bruno Terseur"],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: coverImgUrl,
         deploymentUrl:
@@ -468,7 +468,7 @@ export const educationalResources: (
           "Rappels théoriques sur les méthodes usuelles de statistiques uni- et bi-variées, mise en œuvre avec R, interprétation",
         authors: ["Solène Colin", "Vivien Roussez", "Pascal Irz"],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "training courses with R",
         imageUrl: pollinisateurImgUrl,
         deploymentUrl:
@@ -482,7 +482,7 @@ export const educationalResources: (
           "Méthodologie pour évaluer, en fonction des caractéristiques des données, la pertinence des méthodes usuelles d'analyse multidimensionnelle (ACP, AFC, ACM, CAH). Mise en œuvre avec le package factoMiner. Sorties graphiques avec le package factoextra. Interprétation",
         authors: ["Vivien Roussez", "Pascal Irz"],
         types: ["Tutoriel R"],
-        tags: ["consolidate"],
+        tags: ["Consolider"],
         category: "training courses with R",
         imageUrl: crabeImgUrl,
         deploymentUrl:
@@ -496,7 +496,7 @@ export const educationalResources: (
           "Utiliser les outils R pour produire des graphiques avec le package ggplot2. Produire des cartes en utilisant ggplot2 et sf. Produire des tableaux interactifs. Rendre interactifs des graphiques et des cartes",
         authors: ["Murielle Lethrosne", "Maël Theulière"],
         types: ["Tutoriel R"],
-        tags: ["consolidate"],
+        tags: ["Consolider"],
         category: "training courses with R",
         imageUrl: renardImgUrl,
         deploymentUrl:
@@ -510,7 +510,7 @@ export const educationalResources: (
           "Introduction aux données spatiales, lire et écrire des données spatiales, manipuler des donnés spatiales, créer des cartes.",
         authors: ["Murielle Lethrosne", "Maël Theulière"],
         types: ["Tutoriel R"],
-        tags: ["consolidate"],
+        tags: ["Consolider"],
         category: "training courses with R",
         imageUrl: odonateImgUrl,
         deploymentUrl:
@@ -527,7 +527,7 @@ export const educationalResources: (
     authors: ["inseefrlab"],
     contributors: ["Romain Avouac"],
     types: ["Notebook Python"],
-    tags: ["discover", "learn"],
+    tags: ["Découvrir", "Apprendre"],
     category: "training courses with python",
     imageUrl: pythonImgUrl,
     parts: [
@@ -538,7 +538,7 @@ export const educationalResources: (
         authors: ["inseefrlab"],
         contributors: ["Romain Avouac"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [],
@@ -549,7 +549,7 @@ export const educationalResources: (
         authors: ["inseefrlab"],
         contributors: ["Romain Avouac"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [
@@ -560,7 +560,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -573,7 +573,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -586,7 +586,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -599,7 +599,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -612,7 +612,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -625,7 +625,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -638,7 +638,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -652,7 +652,7 @@ export const educationalResources: (
         authors: ["inseefrlab"],
         contributors: ["Romain Avouac"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [
@@ -663,7 +663,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -676,7 +676,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -689,7 +689,7 @@ export const educationalResources: (
             authors: ["inseefrlab"],
             contributors: ["Romain Avouac"],
             types: ["Notebook Python"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -704,7 +704,7 @@ export const educationalResources: (
         authors: ["inseefrlab"],
         contributors: ["Romain Avouac"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [],
@@ -716,7 +716,7 @@ export const educationalResources: (
         authors: ["inseefrlab"],
         contributors: ["Romain Avouac"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [],
@@ -729,7 +729,7 @@ export const educationalResources: (
       "Approfondissement de Python pour la data science : manipulation de données, visualisation, modélisation, traitement du langage naturel",
     authors: ["Lino Galiana"],
     types: ["Notebook Python"],
-    tags: ["consolidate", "learn"],
+    tags: ["Consolider", "Apprendre"],
     category: "training courses with python",
     imageUrl: pythonImgUrl,
     parts: [
@@ -738,7 +738,7 @@ export const educationalResources: (
         abstract: "Manipulation et récupération automatisée de données",
         authors: ["Lino Galiana"],
         types: ["Notebook Python"],
-        tags: ["consolidate", "learn"],
+        tags: ["Consolider", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [
@@ -748,7 +748,7 @@ export const educationalResources: (
               "numpy constitue la brique de base de l'écosystème de la data-science en\nPython. Toutes les librairies de manipulation de données, de modélisation\net de visualisation reposent, de manière plus ou moins directe, sur numpy.\nIl est donc indispensable d'avoir quelques notions sur ce package avant\nd'aller plus loin.\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -760,7 +760,7 @@ export const educationalResources: (
               "pandas est l'élément central de l'écosystème Python pour la data-science. \nLe succès de Python tient beaucoup à pandas qui a permis d'importer la\nlogique SQL dans le langage Python. pandas embarque énormément de\nfonctionalités qui permettent d'avoir des pipelines efficaces pour\ntraiter des données de volumétrie moyenne (jusqu'à quelques Gigas). Au-delà\nde cette volumétrie, il faudra se tourner vers d'autres solutions\n(PostgresQL, Dask, Spark...).\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -772,7 +772,7 @@ export const educationalResources: (
               "Après avoir présenté la logique de pandas dans le chapitre précédent, \nce chapitre vise à illustrer les fonctionalités du package \nà partir de données d'émissions de gaz à effet de serre\nde l'Ademe. \n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -784,7 +784,7 @@ export const educationalResources: (
               "Les données géolocalisées se sont multipliées depuis quelques années, qu'il\ns'agisse de données open-data ou de traces numériques géolocalisées de\ntype big-data. Pour les données spatiales, le package geopandas\nétend les fonctionalités de l'écosystème pandas afin de permettre\nde manipuler des données géographiques complexe de manière simple.\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -796,7 +796,7 @@ export const educationalResources: (
               'Python permet de facilement récupérer une page web pour en extraire des\ndonnées à restructurer. Le webscraping, que les Canadiens nomment\n"moissonnage du web", est une manière de plus en plus utilisée de\nrécupérer des données en temps réel. \n',
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -808,7 +808,7 @@ export const educationalResources: (
               "Les API (Application Programming Interface) sont un mode d'accès aux\ndonnées en expansion. Grâce aux API, l'automatisation de scripts\nest facilitée puisqu'il n'est plus nécessaire de stocker un fichier,\net gérer ses différentes versions, mais uniquement de requêter une base\net laisser au producteur de données le soin de gérer les mises à jour de\nla base. \n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -821,7 +821,7 @@ export const educationalResources: (
         abstract: "Graphiques, cartes, et visualisations interactives",
         authors: ["Lino Galiana"],
         types: ["Notebook Python"],
-        tags: ["consolidate", "learn"],
+        tags: ["Consolider", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [
@@ -831,7 +831,7 @@ export const educationalResources: (
               "Une découverte des fonctionalités graphiques de matplotlib,\nseaborn et plotly pour représenter des statistiques\nsur les décomptes de vélo à Paris\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -843,7 +843,7 @@ export const educationalResources: (
               "Une découverte de la cartographie, à travers\ngeopandas, geoplot et folium\npour visualiser la fréquentation par les\nvélos des routes parisiennes\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -857,7 +857,7 @@ export const educationalResources: (
           "Preprocessing, apprentissage supervisé et non supervisé, évaluation de modèles",
         authors: ["Lino Galiana"],
         types: ["Notebook Python"],
-        tags: ["consolidate", "learn"],
+        tags: ["Consolider", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [
@@ -867,7 +867,7 @@ export const educationalResources: (
               "Afin d'avoir des données cohérentes avec les hypothèses de modélisation,\nil est absolument fondamental de prendre le temps de\npréparer les données à fournir à un modèle. La qualité de la prédiction\ndépend fortement de ce travail préalable de preprocessing.\nBeaucoup de méthodes sont disponibles dans scikit, ce qui rend ce travail\nmoins fastidieux. \n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -879,7 +879,7 @@ export const educationalResources: (
               "Faire preuve de méthode pour évaluer la qualité d'un modèle \npermet de proposer des prédictions plus robustes, ayant\nde meilleures performances out-of-sample. Décomposer\nl'échantillon initial en sous-échantillons d'entraînement\net de tests, faire de la validation croisée, utiliser\nles bonnes mesures de performances \npeut se faire, grâce à scikit, de manière relativement standardisée\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -891,7 +891,7 @@ export const educationalResources: (
               "La classification permet d'attribuer une classe d'appartenance (label)\ndiscrète à des données à partir de certaines variables explicatives\n(features). Les algorithmes sont nombreux. L'un des plus intuitifs et\nles plus fréquemment rencontrés est le SVM (*support vector machine*).\nCe chapitre illustre les enjeux de la classification à partir de\nce modèle.\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -900,10 +900,10 @@ export const educationalResources: (
           {
             name: "Régression: une introduction",
             abstract:
-              "La régression linéaire est la première modélisation statistique\nqu'on découvre dans un cursus quantitatif. Il s'agit en effet d'une\nméthode très intuitive et très riche. Le Machine Learning permet de\nl'appréhender d'une autre manière que l'économétrie. Avec scikit et\nstatsmodels, on dispose de tous les outils pour satisfaire à la fois\ndata scientists et économistes. \n",
+              "La régression linéaire est la première modélisation statistique\nqu'on découvre dans un cursus quantitatif. Il s'agit en effet d'une\nméthode très intuitive et très riche. Le Machine Apprendreing permet de\nl'appréhender d'une autre manière que l'économétrie. Avec scikit et\nstatsmodels, on dispose de tous les outils pour satisfaire à la fois\ndata scientists et économistes. \n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -915,7 +915,7 @@ export const educationalResources: (
               "L'accès à des bases de données de plus en plus riches permet\ndes modélisations de plus en plus raffinées. Cependant,\nles modèles parcimonieux sont généralement préférables\naux modèles extrêmement riches pour obtenir de bonnes\nperformances out-of-sample. Les méthodes de sélection de variables,\nnotamment le LASSO, permettent de sélectionner le signal le plus\npertinent dilué dans une information riche. \n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -927,7 +927,7 @@ export const educationalResources: (
               "Le clustering consiste à répartir des observations dans des groupes,\ngénéralement non observés,\nen fonction de caractéristiques observables. Il s'agit d'une\napplication classique des méthodes non supervisées. Les applications\nau monde réel sont nombreuses, notamment dans le domaine de la\nsegmentation tarifaire.\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -939,7 +939,7 @@ export const educationalResources: (
               "Les pipelines scikit permettent d'intégrer de manière très flexible\nun ensemble d'opérations de pre-processing et d'entraînement de modèles\ndans une chaîne d'opérations. Il s'agit d'une approche particulièrement\nappropriée pour réduire la difficulté à changer d'algorithme ou pour\nfaciliter la ré-application d'un code à de nouvelles données\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -952,7 +952,7 @@ export const educationalResources: (
         abstract: "Analyse et modélisation des données textuelles",
         authors: ["Lino Galiana"],
         types: ["Notebook Python"],
-        tags: ["consolidate", "learn"],
+        tags: ["Consolider", "Apprendre"],
         category: "training courses with python",
         imageUrl: pythonImgUrl,
         parts: [
@@ -962,7 +962,7 @@ export const educationalResources: (
               "Les corpus textuels étant des objets de très grande dimension\noù le ratio signal/bruit est faible, il est nécessaire de mettre\nen oeuvre une série d'étapes de nettoyage de texte. Ce chapitre va\nexplorer quelques méthodes classiques de nettoyage en s'appuyant\nsur le Comte de Monte Cristo. \n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -974,7 +974,7 @@ export const educationalResources: (
               "Ce chapitre continue de présenter l'approche de data-cleaning\ndu NLP en s'appuyant sur le corpus de trois auteurs\nanglo-saxons : Mary Shelley, Edgar Allan Poe, H.P. Lovecraft.\nDans cette série d'exercice nous mettons en oeuvre de manière\nplus approfondie les différentes méthodes présentées\nprécedemment\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -986,7 +986,7 @@ export const educationalResources: (
               "Le modèle Latent Dirichlet Allocation (LDA) est un modèle probabiliste génératif qui permet\nde décrire des collections de documents de texte ou d’autres types de données discrètes. LDA fait\npartie d’une catégorie de modèles appelés “topic models”, qui cherchent à découvrir des structures\nthématiques cachées dans des vastes archives de documents.\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -995,10 +995,10 @@ export const educationalResources: (
           {
             name: "Méthodes de vectorisation : comptages et word embeddings",
             abstract:
-              "Pour pouvoir utiliser des données textuelles dans des algorithmes\nde machine learning, il faut les vectoriser, c'est à dire transformer\nle texte en données numériques. Dans ce TP, nous allons comparer\ndifférentes méthodes de vectorisation, à travers une tâche de prédiction :\npeut-on prédire un auteur littéraire à partir d'extraits de ses textes ?\nParmi ces méthodes, on va notamment explorer le modèle Word2Vec, qui\npermet d'exploiter les structures latentes d'un texte en construisant\ndes word embeddings (plongements de mots).\n",
+              "Pour pouvoir utiliser des données textuelles dans des algorithmes\nde machine Apprendreing, il faut les vectoriser, c'est à dire transformer\nle texte en données numériques. Dans ce TP, nous allons comparer\ndifférentes méthodes de vectorisation, à travers une tâche de prédiction :\npeut-on prédire un auteur littéraire à partir d'extraits de ses textes ?\nParmi ces méthodes, on va notamment explorer le modèle Word2Vec, qui\npermet d'exploiter les structures latentes d'un texte en construisant\ndes word embeddings (plongements de mots).\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -1010,7 +1010,7 @@ export const educationalResources: (
               "Des exercices supplémentaires pour pratiquer les concepts du NLP\n",
             authors: ["Lino Galiana"],
             types: ["Notebook Python"],
-            tags: ["consolidate", "learn"],
+            tags: ["Consolider", "Apprendre"],
             category: "training courses with python",
             imageUrl: pythonImgUrl,
             deploymentUrl:
@@ -1031,7 +1031,7 @@ export const educationalResources: (
         abstract: "Bases d'architecture et premiers exemples",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
@@ -1043,7 +1043,7 @@ export const educationalResources: (
           "Faire du spark avec comme source et destination un système de fichier hadoop compatible : S3",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: minioImgUrl,
         deploymentUrl:
@@ -1055,7 +1055,7 @@ export const educationalResources: (
           "Utiliser une donnée chiffrée sur S3, définir vos propres clés de chiffrement avec les clés de chiffrement fournies par Vault (SSE-C).",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: vaultSvgUrl,
         deploymentUrl:
@@ -1067,7 +1067,7 @@ export const educationalResources: (
           "Faire du Spark avec un cluster Spark sur Kubernetes et notion de lazy evaluation, transformation et action",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: kubImgUrl,
         deploymentUrl:
@@ -1079,7 +1079,7 @@ export const educationalResources: (
           "Faire du spark avec un nombre d'executeur variable en fonction de votre besoin",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: kubImgUrl,
         deploymentUrl:
@@ -1090,7 +1090,7 @@ export const educationalResources: (
         abstract: "Notion de partitions et format parquet",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
@@ -1101,7 +1101,7 @@ export const educationalResources: (
         abstract: "Metadonnées des tables d'un datalake",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: hiveSvgUrl,
         deploymentUrl:
@@ -1113,7 +1113,7 @@ export const educationalResources: (
           "Et si on faisait simplement du SQL en externalisant le driver spark et un outil de visualisation : redash",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: redashSvgUrl,
         deploymentUrl:
@@ -1125,7 +1125,7 @@ export const educationalResources: (
           "Analyse de tweets. Notions de batch, micro-batch, streaming tout dépend de la vélocité recherchée.",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
@@ -1136,7 +1136,7 @@ export const educationalResources: (
         abstract: "Analyse de tweets avec l'utilisation de graph Spark",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
@@ -1147,7 +1147,7 @@ export const educationalResources: (
         abstract: "A la découverte des GPUs avec spark",
         authors: ["Inseefrlab"],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         deploymentUrl:
@@ -1158,7 +1158,7 @@ export const educationalResources: (
         abstract: "R pour de gros volumes",
         authors: ["Inseefrlab"],
         types: ["Tutoriel R"],
-        tags: ["consolidate"],
+        tags: ["Consolider"],
         category: "trainings of data science",
         imageUrl: sparkImgUrl,
         articleUrl:
@@ -1184,7 +1184,7 @@ export const educationalResources: (
           "Stéphanie Himpens, Milena Suarez Castillo, Stéphanie Combes, Benjamin Sakarovitch",
         ],
         types: ["Tutoriel R"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "trainings of data science",
         imageUrl: bookImgUrl,
         deploymentUrl:
@@ -1199,7 +1199,7 @@ export const educationalResources: (
           "Stéphanie Himpens, Milena Suarez Castillo, Stéphanie Combes, Benjamin Sakarovitch",
         ],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "trainings of data science",
         imageUrl: pythonImgUrl,
         deploymentUrl:
@@ -1214,11 +1214,11 @@ export const educationalResources: (
           "Stéphanie Himpens, Milena Suarez Castillo, Stéphanie Combes, Benjamin Sakarovitch",
         ],
         types: ["Notebook Python"],
-        tags: ["learn", "consolidate"],
+        tags: ["Apprendre", "Consolider"],
         category: "trainings of data science",
         imageUrl: elkImgUrl,
         deploymentUrl:
-          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABFuzzyMatchElasticInitiation%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Fhby7ih%2Fhandsonelastic%2F-%2Fraw%2Fmaster%2Finit.sh%C2%BB&resources.requests.memory=%C2%AB10512Mi%C2%BB&security.allowlist.enabled=false&persistence.enabled=false&discovery.hive=false",
+          "https://datalab.datafid.nextmap.io/launcher/inseefrlab-helm-charts-datascience/jupyter?autoLaunch=true&onyxia.friendlyName=%C2%ABFuzzyMatchElasticInitiation%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Fhby7ih%2Fhandsonelastic%2F-%2Fraw%2Fmaster%2Finit.sh%C2%BB&resources.requests.memory=%C2%AB10512Mi%C2%BB&security.allowlist.enabled=false&persistence.enabled=false&Découvriry.hive=false",
       },
     ],
   },
@@ -1234,7 +1234,7 @@ export const educationalResources: (
           "Présentation générale de la formation et ressources additionnelles",
         authors: ["Kim Antunez", "Julien Pramil"],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "trainings of data science",
         imageUrl: btbImgUrl,
         articleUrl: "https://inseefrlab.github.io/formation-r-lissage-spatial/",
@@ -1245,7 +1245,7 @@ export const educationalResources: (
           "Tutoriel de formation au carroyage et au lissage spatial sur R",
         authors: ["Kim Antunez", "Julien Pramil"],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "trainings of data science",
         imageUrl: btbImgUrl,
         articleUrl:
@@ -1259,7 +1259,7 @@ export const educationalResources: (
           "Mise en pratique des techniques présentées dans le tutoriel à partir de nouveaux jeux de données",
         authors: ["Kim Antunez", "Julien Pramil"],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "trainings of data science",
         imageUrl: btbImgUrl,
         articleUrl:
@@ -1271,7 +1271,7 @@ export const educationalResources: (
   },
   {
     name: "Tutoriels ML",
-    abstract: "Tutoriels de Machine learning",
+    abstract: "Tutoriels de Machine Apprendreing",
     imageUrl: jupyterImgUrl,
     parts: [
       {
@@ -1279,7 +1279,7 @@ export const educationalResources: (
         abstract: "Initiation au random forest sur les données du Titanic",
         authors: ["Alexis Dondon"],
         types: ["Notebook Python"],
-        tags: ["discover", "learn"],
+        tags: ["Découvrir", "Apprendre"],
         category: "trainings of data science",
         imageUrl: jupyterImgUrl,
         deploymentUrl:
@@ -1299,7 +1299,7 @@ export const educationalResources: (
           "Le projet utilitR vise à produire une documentation collaborative et open source sur R, destinée en premier lieu aux agents de l’Insee. ",
         authors: ["UtilitR"],
         types: ["Tutoriel R"],
-        tags: ["discover"],
+        tags: ["Découvrir"],
         category: "training courses with R",
         imageUrl: utilitrImgUrl,
         deploymentUrl:
@@ -1318,7 +1318,7 @@ export const educationalResources: (
               "Les collections AUSv3 sont les environnements de référence pour réaliser des tâches de production statistique et des études avec R et RStudio à l’Insee.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1331,7 +1331,7 @@ export const educationalResources: (
               "Utiliser R et RStudio sur le datalab du SSP Cloud pour mener des expérimentations sur données ouvertes.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1344,7 +1344,7 @@ export const educationalResources: (
               "Versionner son projet depuis son poste de travail en ayant recours à un dépôt distant, disponible sur GitLab ou GitHub.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1357,7 +1357,7 @@ export const educationalResources: (
               "Définir certaines actions ou valeurs qui seront effectuées automatiquement à l’ouverture d’une session R.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn", "consolidate"],
+            tags: ["Découvrir", "Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1370,7 +1370,7 @@ export const educationalResources: (
               "Les bonnes pratiques pour faire un bon usage de ces ressources er ne pas gêner le travail des autres applications ou utilisateurs.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn", "consolidate"],
+            tags: ["Découvrir", "Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1391,7 +1391,7 @@ export const educationalResources: (
               "Rassembler tous les éléments de contexte propres à un projet : espace de travail, historique de commandes, variables d’environnement, options de R, etc.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1404,7 +1404,7 @@ export const educationalResources: (
               "Collaborer, suivre les modifications et contrôler les versions d’un projet RStudio.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1417,7 +1417,7 @@ export const educationalResources: (
               "Ajouter des fonctions développées par des utilisateurs de R sous forme de package.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1430,7 +1430,7 @@ export const educationalResources: (
               "Déterminer si un package déjà existant répond à votre besoin et si vous pouvez l’utiliser.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1443,7 +1443,7 @@ export const educationalResources: (
               "Méthodes pour déclarer et gérer les dépendances avec R lorsqu’on partage ses programmes.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1456,7 +1456,7 @@ export const educationalResources: (
               "Recommandations pour se retrouver dans la documentation luxuriante de R.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1469,7 +1469,7 @@ export const educationalResources: (
               "Comment isoler le problème et comment demander de l’aide.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1490,7 +1490,7 @@ export const educationalResources: (
               "Importer dans R des données stockées sous forme de fichiers plats (formats .txt, .csv, .tsv).",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["discover", "learn"],
+            tags: ["Découvrir", "Apprendre"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1503,7 +1503,7 @@ export const educationalResources: (
               "Méthodes d’importation dans R de données stockées sous forme de tables SAS.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1516,7 +1516,7 @@ export const educationalResources: (
               "Importer dans R des données issues de tableurs (extension type xls, xlsx ou ods).",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1528,7 +1528,7 @@ export const educationalResources: (
             abstract: "Accéder à des données via une API.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1541,7 +1541,7 @@ export const educationalResources: (
               "Accéder à des données stockées dans une base de données (sous forme Oracle, PostgreSQL, etc.).",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1562,7 +1562,7 @@ export const educationalResources: (
               "Manipuler des données stucturées sous forme de data.frame avec tidyverse.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1575,7 +1575,7 @@ export const educationalResources: (
               "Manipuler des données stucturées sous forme de data.frame avec data.table.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1588,7 +1588,7 @@ export const educationalResources: (
               "Apparier deux tables de données selon une ou plusieurs variables de jointure.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1601,7 +1601,7 @@ export const educationalResources: (
               "Manipuler du texte (repérer et extraire une chaîne de caractères, concaténer, remplacer une chaîne par une autre, modifier la casse, etc.).",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1614,7 +1614,7 @@ export const educationalResources: (
               "Exploiter des données d’enquête pour calculer des indicateurs.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1627,7 +1627,7 @@ export const educationalResources: (
               "Traiter avec R des données spatiales (données géolocalisées, polygones, etc.).",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1640,7 +1640,7 @@ export const educationalResources: (
               "Méthodes classiques d’analyse de données (composantes principales, correspondances multiples, l’analyse factorielle des correspondance, etc.)",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1661,7 +1661,7 @@ export const educationalResources: (
               "Réaliser des graphiques (nuages de points, histogrammes, densité, etc.) et les personnaliser (légendes, titres, échelles, etc.).",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1674,7 +1674,7 @@ export const educationalResources: (
               "Produire avec R des documents contenant à la fois du texte, des extraits de code R et les résultats de l’exécution de programmes.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1687,7 +1687,7 @@ export const educationalResources: (
               "Produire un ou plusieurs rapports automatisés, reproductibles, faciles à actualiser en cas de modification des données et en faisant varier des paramètres.",
             authors: ["UtilitR"],
             types: ["Tutoriel R"],
-            tags: ["learn", "consolidate"],
+            tags: ["Apprendre", "Consolider"],
             category: "training courses with R",
             imageUrl: utilitrImgUrl,
             deploymentUrl:
@@ -1716,7 +1716,7 @@ export const educationalResources: (
           "Olivier Meslin",
         ],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "best practices",
         imageUrl: gitImgUrl,
         articleUrl:
@@ -1734,7 +1734,7 @@ export const educationalResources: (
           "Olivier Meslin",
         ],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "best practices",
         imageUrl: gitImgUrl,
         articleUrl:
@@ -1751,7 +1751,7 @@ export const educationalResources: (
           "Olivier Meslin",
         ],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "best practices",
         imageUrl: gitImgUrl,
         articleUrl:
@@ -1770,7 +1770,7 @@ export const educationalResources: (
           "Olivier Meslin",
         ],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "best practices",
         imageUrl: gitImgUrl,
         articleUrl:
@@ -1788,7 +1788,7 @@ export const educationalResources: (
           "Olivier Meslin",
         ],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "best practices",
         imageUrl: gitImgUrl,
         articleUrl:
@@ -1806,7 +1806,7 @@ export const educationalResources: (
           "Olivier Meslin",
         ],
         types: ["Tutoriel R"],
-        tags: ["learn"],
+        tags: ["Apprendre"],
         category: "best practices",
         imageUrl: gitImgUrl,
         articleUrl:
