@@ -19,8 +19,8 @@ const Card = (props: CardProps) => {
       return (
         <Button
           variant="outline"
-          color="white"
-          _hover={{ color: "black", bgColor: "white" }}
+          color="gray.900"
+          _hover={{ color: "white", bgColor: "#FF562C" }}
           borderRadius="3xl"
           position="absolute"
           bottom="5"
@@ -43,8 +43,8 @@ const Card = (props: CardProps) => {
             <Link href={props.articleUrl} target="_blank">
               <Button
                 variant="outline"
-                color="white"
-                _hover={{ color: "black", bgColor: "white" }}
+                color="gray.900"
+                _hover={{ color: "white", bgColor: "#FF562C" }}
                 borderRadius="3xl"
                 marginRight="3"
               >
@@ -54,8 +54,8 @@ const Card = (props: CardProps) => {
             <Link href={props.deploymentUrl} target="_blank">
               <Button
                 variant="outline"
-                color="white"
-                _hover={{ color: "black", bgColor: "white" }}
+                color="gray.900"
+                _hover={{ color: "white", bgColor: "#FF562C" }}
                 borderRadius="3xl"
               >
                 Lancer
@@ -68,8 +68,8 @@ const Card = (props: CardProps) => {
           <Link href={props.deploymentUrl} target="_blank">
             <Button
               variant="outline"
-              color="white"
-              _hover={{ color: "black", bgColor: "white" }}
+              color="gray.900"
+              _hover={{ color: "white", bgColor: "#FF562C" }}
               borderRadius="3xl"
               position="absolute"
               bottom="5"
@@ -84,8 +84,8 @@ const Card = (props: CardProps) => {
           <Link href={props.articleUrl} target="_blank">
             <Button
               variant="outline"
-              color="white"
-              _hover={{ color: "black", bgColor: "white" }}
+              color="gray.900"
+              _hover={{ color: "white", bgColor: "#FF562C" }}
               borderRadius="3xl"
               position="absolute"
               bottom="5"
@@ -137,20 +137,21 @@ const Card = (props: CardProps) => {
       shadow="sm"
       m="1"
       pb="24"
-      bgColor="gray.600"
+      bgColor="white"
       borderRadius="xl"
       display="flex"
+      boxShadow="xl"
       flexDirection="column"
       position="relative"
     >
       <Flex alignItems={"center"}>
         <Avatar src={props.imageUrl} size="sm" />
-        <Heading as="h4" fontSize="lg" color="white" pl="4">
+        <Heading as="h4" fontSize="lg" color="gray.900" pl="4">
           {props.name}
         </Heading>
       </Flex>
       <Divider my="3" />
-      <Text color="white" fontSize="sm">
+      <Text color="gray.900" fontSize="sm">
         {props.abstract}
       </Text>
       {displayTags()}

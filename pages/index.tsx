@@ -46,8 +46,8 @@ const Home: NextPage = () => {
   );
 
   return (
-    <Box w="full" minHeight="100vh" h="full" bgColor="gray.900" px="12" py="12">
-      <Heading color="white" py="12">
+    <Box w="full" minHeight="100vh" h="full" bgColor="#F1F0EB" px="12" py="12">
+      <Heading color="grey.900" py="12">
         Formations et tutoriels
       </Heading>
       <SearchBar />
