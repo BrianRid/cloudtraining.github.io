@@ -1,15 +1,4 @@
-import {
-  Box,
-  Breadcrumb,
-  BreadcrumbItem,
-  Button,
-  Container,
-  Flex,
-  Heading,
-  Text,
-  Wrap,
-  Link,
-} from "@chakra-ui/react";
+import { Box, Button, Heading, Text, Wrap, Link } from "@chakra-ui/react";
 import _ from "lodash";
 import type { NextPage } from "next";
 import { useState } from "react";

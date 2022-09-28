@@ -63,7 +63,7 @@ const Card = (props: CardProps) => {
             </Link>
           </Box>
         );
-      } else {
+      } else if (props.deploymentUrl) {
         return (
           <Link href={props.deploymentUrl} target="_blank">
             <Button
@@ -76,6 +76,22 @@ const Card = (props: CardProps) => {
               right="5"
             >
               Lancer
+            </Button>
+          </Link>
+        );
+      } else if (props.articleUrl) {
+        return (
+          <Link href={props.articleUrl} target="_blank">
+            <Button
+              variant="outline"
+              color="white"
+              _hover={{ color: "black", bgColor: "white" }}
+              borderRadius="3xl"
+              position="absolute"
+              bottom="5"
+              right="5"
+            >
+              Lire
             </Button>
           </Link>
         );
